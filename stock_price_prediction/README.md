@@ -1,0 +1,3 @@
+
+The main objective of this analysis is to forecast the closing prices of various stock market indices with the focus on if machine learning models can accurately predict the future closing prices of stock indices based on historical data.
+Stock market indices included in the dataset are used to measure the performance of a group of stocks. Predicting their future values can provide valuable insights. Previous studies have used various machine learning techniques to forecast stock prices, including linear regression, support vector machines, and neural networks.
